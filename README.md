@@ -1,2 +1,3 @@
-# indivisual-eyes-documentation
-Documentation for the Indivisual Eyes app
+# Indivisual Eyes App
+
+Documentation for the Indivisual Eyes app.
