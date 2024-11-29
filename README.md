@@ -1,4 +1,4 @@
-# Indivisual Eyes App
+# IndiVisual Eyes App
 
 Documentation for the Indivisual Eyes app.
 
