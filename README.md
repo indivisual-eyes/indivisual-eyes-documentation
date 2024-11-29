@@ -1,6 +1,6 @@
 # IndiVisual Eyes App
 
-Documentation for the Indivisual Eyes app.
+Documentation for the IndiVisual Eyes app.
 
 ## Reference Papers
 
